@@ -18,13 +18,11 @@ The Weather App is a weather forecast application that utilizes the RESTful API 
 
 ### How to Use:
 
-1. Open the Weather App on your iOS device.
+1. Type the desired city name in the code.
 
-2. Type the desired city name in the search field.
+2. Open the Weather App on your iOS device.
 
-3. Tap the search button or wait for automatic updates.
-
-4. The app will display the current temperature and a brief weather description for the selected city.
+3. The app will display the current temperature and a brief weather description for the selected city.
 
 ### Notes:
 
