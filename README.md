@@ -1,6 +1,6 @@
 ## Weather App - Weather Forecast Application
 
-![Weather App Screenshot](https://github.com/mtsfreitas/WeatherRESTful/assets/21324690/01ae0687-5496-46c9-9ff1-413824bde638)
+<img src="https://github.com/mtsfreitas/WeatherRESTful/assets/21324690/01ae0687-5496-46c9-9ff1-413824bde638" width="300" height="600" alt="Weather App Screenshot">
 
 ### Description:
 
@@ -31,13 +31,3 @@ The Weather App is a weather forecast application that utilizes the RESTful API 
 - An internet connection is required to retrieve weather forecast information.
 
 - The app was developed using the Swift programming language and utilizes the OpenWeatherMap RESTful API to fetch weather data.
-
-### Credits:
-
-This app was developed by [your name or nickname], showcasing proficiency in Swift programming and experience in RESTful integration using Swift.
-
-### Disclaimer:
-
-This app is for educational purposes only and should not be used as an official weather forecasting tool. Weather information is provided by the OpenWeatherMap API and may not be accurate or up-to-date in real-time.
-
-*Copyright © 20XX [your name or nickname]. All rights reserved.*
